@@ -38,6 +38,9 @@
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Ooui, Version=0.10.222.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ooui.0.10.222\lib\netstandard2.0\Ooui.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -67,9 +70,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Converter.cs" />
-    <Compile Include="EntryFieldVM.cs" />
     <Compile Include="WebAPI.cs" />
-    <Compile Include="ViewModelBase.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -111,6 +112,12 @@
     <Resource Include="Images\coffee.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{4f92628c-5408-489e-adf1-bb3545805a4a}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

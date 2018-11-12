@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WpfApp3;
 using NUnit;
+using ClassLibrary1;
 
 namespace UnitTestProject1
 {

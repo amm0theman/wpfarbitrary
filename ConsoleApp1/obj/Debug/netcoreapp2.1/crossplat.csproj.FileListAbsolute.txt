@@ -1,0 +1,8 @@
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\crossplat.deps.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\crossplat.runtimeconfig.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\crossplat.runtimeconfig.dev.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\bin\Debug\netcoreapp2.1\crossplat.dll
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\crossplat.csprojAssemblyReference.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\crossplat.csproj.CoreCompileInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\crossplat.AssemblyInfoInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.1\crossplat.AssemblyInfo.cs

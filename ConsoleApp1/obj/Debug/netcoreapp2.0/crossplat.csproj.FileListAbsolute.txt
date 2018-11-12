@@ -1,0 +1,4 @@
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.0\crossplat.csprojAssemblyReference.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.0\crossplat.csproj.CoreCompileInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.0\crossplat.AssemblyInfoInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp1\obj\Debug\netcoreapp2.0\crossplat.AssemblyInfo.cs

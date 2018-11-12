@@ -1,0 +1,16 @@
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\MainWindow.xaml.g.cs
+C:\Users\amm0t\source\repos\WpfApp3\ConsoleApp2\obj\Debug\netcoreapp2.0\XamlC.stamp
