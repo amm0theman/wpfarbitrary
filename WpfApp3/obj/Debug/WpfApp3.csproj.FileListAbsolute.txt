@@ -117,3 +117,6 @@ C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompile
 C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
 C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
 C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\bin\Debug\System.Data.SQLite.dll
+C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\bin\Debug\System.Data.SQLite.xml
+C:\Users\amm0t\source\repos\WpfApp3\WpfApp3\bin\Debug\System.Data.SQLite.dll.config

@@ -14,8 +14,9 @@ namespace ClassLibrary1
         private string _username;
         private string _password;
         private string _email;
+        private databaseSQLite db = new databaseSQLite();
 
-        public string Username => "Username";
+        public string Username => db.SelectData();
         public string Password => "Password";
         public string Email => "Email";
 
@@ -23,6 +24,7 @@ namespace ClassLibrary1
         {
             get
             {
+                var a = db.SelectData();
                 return _username;
             }
             set

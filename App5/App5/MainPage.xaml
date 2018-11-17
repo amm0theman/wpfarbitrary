@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App5"
+             xmlns:shared="clr-namespace:ClassLibrary1;assembly=ClassLibrary1"
+             x:Class="App5.MainPage"
+             BindingContext="shared:EntryFieldVM">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="{Binding Username}" />
+    </StackLayout>
+
+</ContentPage>

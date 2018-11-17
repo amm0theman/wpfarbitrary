@@ -1,0 +1,14 @@
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\AvaloniaApplication1.deps.json
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\AvaloniaApplication1.runtimeconfig.json
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\AvaloniaApplication1.runtimeconfig.dev.json
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\AvaloniaApplication1.dll
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\AvaloniaApplication1.pdb
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.csprojAssemblyReference.cache
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.csproj.CoreCompileInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.AssemblyInfoInputs.cache
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.AssemblyInfo.cs
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.csproj.CopyComplete
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.dll
+C:\Users\amm0t\source\repos\WpfApp3\AvaloniaApplication1\obj\Debug\netcoreapp2.0\AvaloniaApplication1.pdb
